@@ -43,4 +43,8 @@ this is an autonomous game that was made by implementing Breadth-First Search as
         return []  # Path tidak ada atau habis
 ```
 
-this program implies adjacency-paths that are definitely applying shortest path and nearest path that snake could reach the apple as the target. details could be shown in the source code attached above.
+this program implies adjacency-paths that are definitely applying shortest path and fastest path that snake could reach the apple as the target. details could be shown in the source code attached above.
+
+
+### PROBLEMS WHILE RUNNING PROGRAM
+the program would be not responding after completing all path or has reached finish session. so it might take several times to wait and close the program using cross button on the corner of the interface.
